@@ -6,7 +6,7 @@
     2. run ```npm install```
     3. set correct api keys in gatsby-config.js
     4. run ```gatsby develop```
-    5. run Ready Rosie rails app that serves Videos via graphql api
+    5. run local Ready Rosie rails app that serves Videos via graphql api or edit gatsby-config.js to use hosted version of app
 
 2.  **Learn more about Gatsby**
 
